@@ -1,8 +1,11 @@
 import React from 'react'
-import './cta'
 
-export const cta = () => {
+const CTA = () => {
   return (
-    <div>cta</div>
+    <div>
+      
+    </div>
   )
 }
+
+export default CTA
