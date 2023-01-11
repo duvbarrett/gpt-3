@@ -10,7 +10,7 @@ const Header = () => {
         <h1 className="gradient__text">
           Let's Build something amazing with GPT-3 OpenAI
         </h1>
-        <p>Yet bed any for travelling assistance indulgence unpleasing. Not thoughts all exercise blessing. Indulgence way everything joy alteration boisterous the attachment. Party we years to order allow asked of.</p>
+        <p>For any traveling assistance indulgence is unpleasing. No thoughts all exercise blessing. Indulgence is everything with joy alteration boisterous the attachment. Party for years to order allow asked of us.</p>
         <div className='gpt3__header-content__input'> <input type='email' placeholder='Your email address' />
         <button type='button'>Get started</button></div>
         <div className='gpt3__header-content__people'><img src={people} alt={people}/>
