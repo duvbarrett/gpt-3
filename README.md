@@ -1,4 +1,4 @@
 ### Live Demo
-https://www.whatgpt3ai.netlify.com
 
+https://whatgpt3api.netlify.app/
 <br>
